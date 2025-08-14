@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"id": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
+"id": "eeeeeee1-eeee-1ccc-eccc-eeeeeeeeeee1",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/Telegram:@Top_Dave"
+"path": "/Telegram/@Top_Dave/@w2ilwe"
 }
 }
 }
