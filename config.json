@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"password": "e49d1c4e-ef73-4b41-a3cf-b7143b7fbe82",
+"password": "eeee4444-bbbb-3ccc-1eee-eeeeaaaacccc",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/Telegram/@w2ilwe/@x_3_o_x"
+"path": "/w2ilwe"
 }
 }
 }
